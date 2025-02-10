@@ -30,9 +30,9 @@ The model has been evaluated using the following metrics
 + Mean Absolute Error
 + R<sup>2</sup> Score
 ## 4. Results & Discussion
-+ Mean Squared Error - 8.2369
-+ Mean Absolute Error - 2.2279
-+ R<sup>2</sup> Score - 0.4582
++ Mean Squared Error - 9.0161
++ Mean Absolute Error - 2.3433
++ R<sup>2</sup> Score - 0.4095
 
 The predicted density values increase as actual densities increase, which is a good sign. However, the correlation is not perfectly linear, which suggests a non-linear relationship in the data. The data are deviated significantly from the ideal y = x line, which means that the model is not making accurate predictions. We can also observe that the model struggles at higher density values, eventhough predictions are fairly accurate at lower denisty values. 
 ## 5. Improvements
